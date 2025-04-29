@@ -7,17 +7,18 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from sklearn.ensemble import RandomForestRegressor
 import warnings
-
+import os
 warnings.filterwarnings('ignore')
 st.set_page_config(page_title="Sales Forecasting Dashboard", layout="wide")
 
 # Load Models and Features
 @st.cache_resource
 def load_models():
-    rf = joblib.load(r'C:\Users\samee\flora_edge\rf_model.pkl')
-    xgb = joblib.load(r'C:\Users\samee\flora_edge\xgb_model.pkl')
-    arima = joblib.load(r'C:\Users\samee\flora_edge\arima_model.pkl')
-    features = joblib.load(r'C:\Users\samee\flora_edge\trained_features.pkl')
+    base_path = os.path.join(os.path.dirname(__file__), "models")
+    rf = joblib.load(os.path.join(base_path, "rf_model.pkl"))
+    xgb = joblib.load(os.path.join(base_path, "xgb_model.pkl"))
+    arima = joblib.load(os.path.join(base_path, "arima_model.pkl"))
+    features = joblib.load(os.path.join(base_path, "trained_features.pkl"))
     return rf, xgb, arima, features
 
 rf_model, xgb_model, arima_model, trained_features = load_models()

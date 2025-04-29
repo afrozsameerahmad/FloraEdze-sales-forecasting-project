@@ -1,4 +1,4 @@
-﻿altair==5.5.0
+altair==5.5.0
 anyio==4.9.0
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
@@ -79,8 +79,6 @@ pygments==2.19.1
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 pytz==2023.3
-pywin32==310
-pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.4.0
 referencing==0.36.2
@@ -107,7 +105,7 @@ tomli==2.2.1
 tornado==6.4.2
 traitlets==5.14.3
 typing-extensions==4.13.2
-tzdata==2025.2
+tzdata==2023.3
 urllib3==2.4.0
 watchdog==6.0.0
 wcwidth==0.2.13

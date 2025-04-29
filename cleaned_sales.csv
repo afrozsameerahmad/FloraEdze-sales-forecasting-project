@@ -1,0 +1,301 @@
+date,platform,product_name,category,sub_category,region,units_sold,unit_price,revenue,discount,final_price,marketing_spend,holiday_flag,customer_rating,return_rate,stock_available,competitor_price,delivery_time_days,platform_fee,profit_margin,sentiment_score,day_of_week,month,year,promotion_type,customer_name,customer_age,mobile_number,customer_region
+2024-12-07,Myntra,Watch,Accessories,Watches,East,14,1583.45,19951.43,10,1425.1,1137.6,0,2,0.15,414,1622.45,1,71.26,0.23,-0.66,Saturday,12,2024,None,Kabir,58,9349568038,East
+2024-12-31,Amazon,Smartphone,Electronics,Mobiles,East,68,1372.26,83982.4,10,1235.04,1730.4,1,2,0.02,451,1361.6,4,61.75,0.25,-0.39,Tuesday,12,2024,Bogo,Saanvi,35,9470380032,South
+2024-12-19,Ajio,Smartphone,Electronics,Mobiles,East,68,112.95,6912.41,10,101.65,1073.29,0,4,0.18,323,171.96,4,5.08,0.37,0.69,Thursday,12,2024,None,Vivaan,52,9620919300,North
+2024-12-10,Ajio,Shirt,Clothing,Topwear,West,74,260.35,15412.45,20,208.28,314.32,0,1,0.11,222,253.67,1,10.41,0.12,-0.23,Tuesday,12,2024,Coupon,Aarav,32,9767352732,South
+2024-12-27,Ajio,Smartphone,Electronics,Mobiles,East,23,421.9,9703.76,0,421.9,481.61,0,4,0.18,339,397.15,3,21.1,0.36,0.88,Friday,12,2024,Coupon,Anaya,44,9356637617,South
+2024-12-09,Ajio,Shoes,Footwear,Casual Shoes,North,140,1771.66,223229.37,10,1594.5,951.43,0,2,0.17,189,1815.48,3,79.72,0.14,-0.3,Monday,12,2024,Coupon,Anaya,34,9843335366,West
+2025-01-04,Ajio,Smartphone,Electronics,Mobiles,West,61,1624.87,79293.78,20,1299.9,2001.8,0,1,0.18,492,1596.37,1,64.99,0.22,-0.19,Saturday,1,2025,Bogo,Reyansh,57,9449766566,North
+2024-12-17,Myntra,Shirt,Clothing,Topwear,North,151,342.0,46478.07,10,307.8,759.42,0,5,0.17,494,341.8,5,15.39,0.13,-0.2,Tuesday,12,2024,Bogo,Diya,19,9919196966,West
+2024-12-15,Amazon,Jeans,Clothing,Bottomwear,North,41,964.05,35573.53,10,867.65,1875.91,0,3,0.02,74,897.52,5,43.38,0.12,0.29,Sunday,12,2024,None,Anaya,48,9401877905,East
+2024-12-14,Amazon,Shoes,Footwear,Casual Shoes,North,103,406.59,41878.7,0,406.59,1791.63,0,4,0.15,498,354.9,2,20.33,0.29,0.16,Saturday,12,2024,Flash Sale,Diya,54,9872325879,North
+2024-12-28,Ajio,Smartphone,Electronics,Mobiles,West,63,1877.92,94647.35,20,1502.34,3577.95,0,2,0.1,42,1931.97,6,75.12,0.16,0.62,Saturday,12,2024,Flash Sale,Vivaan,58,9317757808,West
+2025-01-11,Ajio,Jeans,Clothing,Bottomwear,West,164,1969.91,226146.06,30,1378.94,4663.97,0,1,0.19,299,1950.49,4,68.95,0.3,-0.53,Saturday,1,2025,Flash Sale,Anaya,58,9107737614,West
+2025-01-06,Myntra,Jeans,Clothing,Bottomwear,West,150,742.14,77925.01,30,519.5,3993.93,0,1,0.09,492,669.79,5,25.98,0.36,0.6,Monday,1,2025,Coupon,Saanvi,51,9932049786,East
+2024-12-11,Ajio,Shirt,Clothing,Topwear,West,96,1208.21,81191.47,30,845.74,118.72,0,5,0.15,156,1294.38,1,42.29,0.21,-0.46,Wednesday,12,2024,Coupon,Aarav,51,9000103983,South
+2024-12-31,Amazon,Watch,Accessories,Watches,North,190,798.65,151742.77,0,798.65,3697.72,1,4,0.18,22,755.89,3,39.93,0.16,-0.14,Tuesday,12,2024,Coupon,Saanvi,20,9368600330,South
+2024-12-20,Meesho,Shirt,Clothing,Topwear,West,164,101.14,16586.32,0,101.14,4761.84,0,1,0.11,454,38.56,1,5.06,0.19,-0.17,Friday,12,2024,Flash Sale,Saanvi,34,9591472868,South
+2025-01-07,Amazon,Shirt,Clothing,Topwear,East,196,1881.75,258176.47,30,1317.23,1327.85,0,5,0.09,166,1960.77,1,65.86,0.37,0.44,Tuesday,1,2025,Bogo,Diya,31,9042336979,East
+2024-12-12,Meesho,Watch,Accessories,Watches,East,126,161.97,16326.99,20,129.58,4759.55,0,2,0.07,273,260.46,5,6.48,0.27,-0.28,Thursday,12,2024,Bogo,Kiara,31,9496222354,West
+2024-12-09,Myntra,Shirt,Clothing,Topwear,West,171,717.7,85908.41,30,502.39,118.7,0,5,0.03,147,663.13,3,25.12,0.31,0.03,Monday,12,2024,Flash Sale,Kiara,55,9744914615,North
+2025-01-04,Ajio,Shoes,Footwear,Casual Shoes,East,24,777.58,13063.37,30,544.31,3882.96,0,4,0.03,318,870.66,1,27.22,0.36,-0.03,Saturday,1,2025,Coupon,Myra,52,9648390776,East
+2025-01-03,Meesho,Watch,Accessories,Watches,West,131,305.13,31977.48,20,244.1,755.43,0,5,0.13,329,307.08,1,12.21,0.22,-0.95,Friday,1,2025,None,Anaya,18,9712807764,South
+2024-12-22,Ajio,Shoes,Footwear,Casual Shoes,East,90,1776.97,111949.07,30,1243.88,928.89,0,1,0.17,203,1845.97,5,62.19,0.17,0.09,Sunday,12,2024,Flash Sale,Aarav,46,9399995043,South
+2024-12-29,Flipkart,Smartphone,Electronics,Mobiles,East,101,340.28,30931.64,10,306.25,4523.86,0,1,0.08,270,280.07,6,15.31,0.27,0.29,Sunday,12,2024,None,Aarav,21,9368774512,North
+2025-01-07,Meesho,Jeans,Clothing,Bottomwear,North,173,1808.96,250360.18,20,1447.17,2557.09,0,3,0.09,218,1856.32,2,72.36,0.13,0.51,Tuesday,1,2025,Coupon,Kabir,50,9412354931,East
+2024-12-24,Flipkart,Shoes,Footwear,Casual Shoes,East,11,1414.38,14002.34,10,1272.94,2388.39,1,5,0.05,441,1363.1,4,63.65,0.18,-0.55,Tuesday,12,2024,Coupon,Saanvi,34,9446034770,South
+2024-12-23,Myntra,Shirt,Clothing,Topwear,East,106,1146.08,85039.45,30,802.26,1736.12,0,2,0.13,340,1198.09,4,40.11,0.25,0.21,Monday,12,2024,Flash Sale,Aarav,45,9490011832,East
+2025-01-05,Ajio,Shoes,Footwear,Casual Shoes,North,127,1404.64,124872.12,30,983.25,1481.8,0,4,0.1,33,1329.22,5,49.16,0.28,-0.83,Sunday,1,2025,Flash Sale,Vivaan,43,9015843486,West
+2024-12-05,Amazon,Jeans,Clothing,Bottomwear,West,198,1601.03,317003.1,0,1601.03,2285.43,0,3,0.11,215,1652.7,5,80.05,0.33,0.45,Thursday,12,2024,Bogo,Ishaan,25,9737546524,East
+2025-01-15,Ajio,Jeans,Clothing,Bottomwear,North,64,904.81,57908.04,0,904.81,4225.68,0,5,0.13,415,964.01,1,45.24,0.3,0.67,Wednesday,1,2025,None,Saanvi,51,9863641567,West
+2024-12-15,Amazon,Smartphone,Electronics,Mobiles,North,191,623.05,95201.67,20,498.44,3764.19,0,2,0.08,103,664.08,6,24.92,0.27,-0.09,Sunday,12,2024,Flash Sale,Diya,35,9576158536,North
+2025-01-06,Ajio,Shoes,Footwear,Casual Shoes,West,147,684.68,80517.89,20,547.74,299.85,0,3,0.12,80,656.23,6,27.39,0.31,-0.41,Monday,1,2025,Coupon,Saanvi,48,9240927889,West
+2024-12-02,Myntra,Watch,Accessories,Watches,East,21,1921.53,28246.56,30,1345.07,4462.29,0,1,0.12,7,1855.47,4,67.25,0.24,-0.29,Monday,12,2024,Flash Sale,Aarav,44,9134205918,West
+2025-01-02,Meesho,Watch,Accessories,Watches,West,169,1622.57,274214.15,0,1622.57,2326.67,0,4,0.04,339,1568.1,6,81.13,0.12,0.22,Thursday,1,2025,Coupon,Reyansh,33,9086915714,North
+2025-01-14,Ajio,Shirt,Clothing,Topwear,South,83,366.94,30456.43,0,366.94,4738.16,0,5,0.13,95,267.48,2,18.35,0.38,0.47,Tuesday,1,2025,Bogo,Vivaan,27,9521521070,South
+2024-12-30,Meesho,Shoes,Footwear,Casual Shoes,East,46,463.83,19202.57,10,417.45,2294.97,0,2,0.18,441,556.61,2,20.87,0.14,-0.94,Monday,12,2024,Flash Sale,Vivaan,57,9452616146,North
+2024-12-23,Meesho,Jeans,Clothing,Bottomwear,East,73,1136.31,74655.77,10,1022.68,2216.85,0,1,0.04,15,1057.18,3,51.13,0.25,0.05,Monday,12,2024,None,Anaya,29,9230289471,East
+2025-01-15,Meesho,Shirt,Clothing,Topwear,North,151,217.19,32796.08,0,217.19,418.01,0,3,0.08,64,260.79,4,10.86,0.31,0.88,Wednesday,1,2025,Bogo,Kiara,39,9269386039,North
+2024-12-23,Amazon,Smartphone,Electronics,Mobiles,West,12,354.18,3825.13,10,318.76,683.2,0,4,0.1,144,378.23,2,15.94,0.14,-0.42,Monday,12,2024,None,Diya,33,9559542128,East
+2024-12-22,Meesho,Shoes,Footwear,Casual Shoes,East,106,1180.02,100065.76,20,944.02,2724.16,0,3,0.08,261,1261.79,2,47.2,0.25,0.89,Sunday,12,2024,Bogo,Anaya,29,9220121756,South
+2024-12-19,Meesho,Smartphone,Electronics,Mobiles,East,177,1370.87,242643.18,0,1370.87,1538.32,0,3,0.07,376,1448.1,5,68.54,0.27,0.33,Thursday,12,2024,Flash Sale,Myra,28,9051526282,East
+2025-01-10,Ajio,Watch,Accessories,Watches,East,118,1878.68,199515.96,10,1690.81,1789.46,0,2,0.06,285,1952.03,6,84.54,0.38,-0.72,Friday,1,2025,Coupon,Ishaan,37,9637178759,North
+2024-12-21,Meesho,Watch,Accessories,Watches,North,198,1002.06,138885.67,30,701.44,4275.84,0,1,0.01,50,1050.19,3,35.07,0.13,0.94,Saturday,12,2024,Bogo,Kabir,18,9060617122,North
+2025-01-09,Flipkart,Shoes,Footwear,Casual Shoes,West,141,694.75,68571.64,30,486.32,201.15,0,5,0.09,223,654.36,3,24.32,0.1,-0.45,Thursday,1,2025,Coupon,Vivaan,44,9044948552,South
+2025-01-05,Meesho,Jeans,Clothing,Bottomwear,West,83,578.93,33635.99,30,405.25,4889.38,0,2,0.1,129,494.93,5,20.26,0.28,0.2,Sunday,1,2025,Coupon,Diya,20,9496214248,North
+2025-01-05,Meesho,Shirt,Clothing,Topwear,South,40,1480.67,53304.26,10,1332.61,4342.06,0,4,0.08,243,1423.42,2,66.63,0.19,-0.65,Sunday,1,2025,Bogo,Kiara,29,9903941107,South
+2024-12-17,Myntra,Watch,Accessories,Watches,North,67,1005.28,67353.52,0,1005.28,2073.25,0,3,0.14,28,1044.21,1,50.26,0.29,-0.74,Tuesday,12,2024,Coupon,Diya,47,9121302490,South
+2024-12-03,Myntra,Shirt,Clothing,Topwear,West,10,1260.18,8821.25,30,882.12,527.72,0,4,0.19,332,1266.7,1,44.11,0.21,-0.09,Tuesday,12,2024,None,Kabir,26,9353665819,North
+2024-12-18,Myntra,Shirt,Clothing,Topwear,East,54,1151.25,43517.33,30,805.88,2873.49,0,2,0.11,332,1073.96,6,40.29,0.35,0.81,Wednesday,12,2024,None,Kabir,54,9779355402,West
+2024-12-12,Myntra,Watch,Accessories,Watches,West,148,1294.02,172364.09,10,1164.62,1400.1,0,2,0.06,152,1220.01,5,58.23,0.13,0.03,Thursday,12,2024,None,Anaya,18,9671234247,East
+2025-01-10,Amazon,Shoes,Footwear,Casual Shoes,South,42,1495.37,56524.94,10,1345.83,2172.09,0,5,0.07,324,1438.81,3,67.29,0.3,0.78,Friday,1,2025,Bogo,Saanvi,59,9715389170,West
+2025-01-03,Ajio,Jeans,Clothing,Bottomwear,North,29,1417.1,28767.09,30,991.97,557.16,0,3,0.17,354,1508.32,6,49.6,0.11,0.66,Friday,1,2025,Coupon,Myra,21,9590128499,South
+2024-12-22,Meesho,Jeans,Clothing,Bottomwear,East,147,584.02,68681.05,20,467.22,4920.19,0,2,0.02,91,676.31,6,23.36,0.16,-0.92,Sunday,12,2024,None,Myra,32,9194402489,East
+2024-12-03,Amazon,Jeans,Clothing,Bottomwear,West,55,244.78,12116.65,10,220.3,4754.02,0,4,0.12,449,161.33,6,11.02,0.36,-0.91,Tuesday,12,2024,Coupon,Aarav,44,9070850746,West
+2024-12-01,Myntra,Shoes,Footwear,Casual Shoes,West,36,1610.14,52168.58,10,1449.13,3261.01,0,5,0.17,316,1609.98,4,72.46,0.11,0.29,Sunday,12,2024,None,Myra,25,9665781615,North
+2024-12-02,Ajio,Watch,Accessories,Watches,West,131,378.55,49589.94,0,378.55,515.7,0,4,0.07,320,454.62,1,18.93,0.38,0.97,Monday,12,2024,Bogo,Diya,40,9195106235,West
+2024-12-23,Ajio,Jeans,Clothing,Bottomwear,North,34,1528.41,36376.15,30,1069.89,295.75,0,3,0.17,491,1546.95,2,53.49,0.12,-0.15,Monday,12,2024,Bogo,Myra,32,9438551567,East
+2024-12-07,Myntra,Shirt,Clothing,Topwear,East,167,1470.7,196485.78,20,1176.56,3971.15,0,5,0.02,404,1375.28,3,58.83,0.31,-0.31,Saturday,12,2024,Bogo,Kiara,44,9789296607,East
+2024-12-11,Meesho,Shirt,Clothing,Topwear,North,154,1051.19,145694.39,10,946.07,1286.93,0,5,0.03,473,1031.76,4,47.3,0.36,-0.2,Wednesday,12,2024,Coupon,Myra,48,9345249402,East
+2025-01-08,Amazon,Watch,Accessories,Watches,North,179,442.68,63391.25,20,354.14,2843.48,0,5,0.03,469,361.88,1,17.71,0.26,-0.6,Wednesday,1,2025,Flash Sale,Vivaan,56,9206063864,East
+2025-01-15,Meesho,Jeans,Clothing,Bottomwear,South,104,632.1,46016.96,30,442.47,3246.43,0,1,0.14,456,658.86,6,22.12,0.21,-0.35,Wednesday,1,2025,Coupon,Aarav,25,9689505037,West
+2024-12-25,Myntra,Shirt,Clothing,Topwear,North,91,341.73,31097.18,0,341.73,3541.75,1,5,0.2,403,387.45,6,17.09,0.12,-0.77,Wednesday,12,2024,Coupon,Diya,47,9449770447,North
+2024-12-31,Meesho,Watch,Accessories,Watches,South,25,1484.37,33398.3,10,1335.93,3967.96,1,4,0.05,456,1512.47,5,66.8,0.14,-0.55,Tuesday,12,2024,Coupon,Kabir,59,9066812306,North
+2024-12-31,Meesho,Smartphone,Electronics,Mobiles,West,47,1157.95,48981.49,10,1042.16,3439.15,1,4,0.18,160,1244.04,4,52.11,0.17,-0.01,Tuesday,12,2024,Bogo,Anaya,35,9922278919,East
+2024-12-18,Amazon,Smartphone,Electronics,Mobiles,West,86,1128.61,67942.41,30,790.03,3294.31,0,3,0.2,206,1137.48,6,39.5,0.11,-0.41,Wednesday,12,2024,Coupon,Ishaan,21,9908585107,North
+2025-01-01,Meesho,Smartphone,Electronics,Mobiles,South,47,569.69,26775.5,0,569.69,3381.45,0,2,0.12,337,508.98,5,28.48,0.22,0.43,Wednesday,1,2025,None,Anaya,39,9207070888,West
+2025-01-02,Amazon,Shoes,Footwear,Casual Shoes,North,166,948.86,157511.21,0,948.86,657.43,0,2,0.13,395,1043.25,6,47.44,0.12,0.88,Thursday,1,2025,Bogo,Saanvi,20,9234583501,North
+2024-12-13,Flipkart,Watch,Accessories,Watches,North,91,1888.42,171846.01,0,1888.42,4903.81,0,1,0.1,16,1809.04,2,94.42,0.13,-0.19,Friday,12,2024,None,Ishaan,32,9739638837,South
+2024-12-07,Flipkart,Shoes,Footwear,Casual Shoes,West,18,1328.55,16739.75,30,929.99,2114.04,0,5,0.18,207,1339.88,3,46.5,0.33,-0.45,Saturday,12,2024,Coupon,Kiara,52,9506027820,North
+2024-12-14,Flipkart,Smartphone,Electronics,Mobiles,East,58,1907.74,110648.91,0,1907.74,188.81,0,1,0.01,252,1889.36,5,95.39,0.29,0.38,Saturday,12,2024,Bogo,Reyansh,55,9064055366,East
+2024-12-31,Myntra,Watch,Accessories,Watches,East,59,808.47,47699.46,0,808.47,2258.13,1,3,0.15,99,716.66,2,40.42,0.37,0.68,Tuesday,12,2024,Coupon,Aarav,50,9804926330,North
+2024-12-03,Flipkart,Jeans,Clothing,Bottomwear,East,66,1220.92,64464.38,20,976.73,241.04,0,3,0.12,65,1281.93,6,48.84,0.29,0.96,Tuesday,12,2024,Flash Sale,Kabir,31,9091107559,North
+2024-12-17,Meesho,Shoes,Footwear,Casual Shoes,South,36,1229.06,39821.53,10,1106.15,3852.56,0,2,0.0,83,1184.24,1,55.31,0.11,-0.07,Tuesday,12,2024,Flash Sale,Anaya,18,9984357067,North
+2025-01-01,Flipkart,Watch,Accessories,Watches,West,169,1521.65,257159.48,0,1521.65,4648.85,0,3,0.08,208,1608.39,3,76.08,0.34,-0.64,Wednesday,1,2025,Coupon,Myra,43,9876212335,North
+2024-12-08,Myntra,Watch,Accessories,Watches,East,152,878.82,120222.48,10,790.94,3761.38,0,5,0.19,324,815.71,5,39.55,0.39,-0.67,Sunday,12,2024,Coupon,Aarav,25,9639585209,South
+2025-01-02,Myntra,Shirt,Clothing,Topwear,East,45,1355.38,60992.19,0,1355.38,2137.29,0,4,0.05,245,1427.92,4,67.77,0.28,0.95,Thursday,1,2025,Coupon,Myra,33,9949927901,West
+2024-12-19,Amazon,Shoes,Footwear,Casual Shoes,West,86,1275.36,76776.64,30,892.75,4982.98,0,3,0.14,443,1374.18,4,44.64,0.32,0.14,Thursday,12,2024,Flash Sale,Aarav,55,9227475138,East
+2025-01-13,Ajio,Watch,Accessories,Watches,West,156,594.98,92817.37,0,594.98,2979.05,0,1,0.1,58,694.91,6,29.75,0.33,-1.0,Monday,1,2025,Coupon,Aarav,27,9344975965,East
+2024-12-06,Ajio,Shirt,Clothing,Topwear,South,79,1339.03,105783.7,0,1339.03,4850.12,0,5,0.13,448,1393.73,4,66.95,0.39,-0.09,Friday,12,2024,Coupon,Saanvi,59,9442694618,North
+2025-01-01,Flipkart,Jeans,Clothing,Bottomwear,East,152,341.0,41466.02,20,272.8,2130.71,0,3,0.07,83,383.26,5,13.64,0.33,0.29,Wednesday,1,2025,Flash Sale,Vivaan,54,9741576732,West
+2024-12-05,Flipkart,Smartphone,Electronics,Mobiles,West,71,1011.76,71835.22,0,1011.76,2945.71,0,3,0.08,413,995.32,4,50.59,0.32,-0.52,Thursday,12,2024,Coupon,Kiara,43,9614603150,North
+2024-12-31,Ajio,Smartphone,Electronics,Mobiles,West,130,458.4,59592.16,0,458.4,1241.92,1,5,0.16,109,491.16,1,22.92,0.19,-0.21,Tuesday,12,2024,Coupon,Myra,45,9620761628,South
+2024-12-04,Meesho,Jeans,Clothing,Bottomwear,East,150,854.9,102588.53,20,683.92,1128.54,0,3,0.04,284,879.9,5,34.2,0.24,0.13,Wednesday,12,2024,Flash Sale,Myra,29,9746200170,West
+2024-12-11,Myntra,Shirt,Clothing,Topwear,North,139,502.79,69887.63,0,502.79,4361.84,0,4,0.13,99,538.35,5,25.14,0.11,-0.21,Wednesday,12,2024,Bogo,Myra,37,9488160258,West
+2024-12-10,Myntra,Smartphone,Electronics,Mobiles,North,38,647.97,19698.3,20,518.38,842.76,0,2,0.19,277,656.25,5,25.92,0.24,0.06,Tuesday,12,2024,None,Saanvi,31,9916312598,West
+2024-12-11,Myntra,Watch,Accessories,Watches,North,99,1387.33,96141.99,30,971.13,2329.1,0,5,0.04,91,1482.53,3,48.56,0.27,-0.85,Wednesday,12,2024,Coupon,Anaya,52,9798338717,West
+2024-12-27,Flipkart,Smartphone,Electronics,Mobiles,South,184,1856.85,341660.65,0,1856.85,3147.85,0,1,0.15,39,1875.35,2,92.84,0.21,-0.19,Friday,12,2024,Coupon,Diya,46,9088744243,North
+2024-12-12,Ajio,Shirt,Clothing,Topwear,West,123,1814.25,200837.38,10,1632.82,4599.37,0,3,0.1,202,1864.6,5,81.64,0.11,-0.65,Thursday,12,2024,Flash Sale,Myra,29,9089325046,South
+2024-12-15,Meesho,Smartphone,Electronics,Mobiles,South,66,1458.85,96284.38,0,1458.85,2151.18,0,2,0.15,175,1468.3,4,72.94,0.33,0.72,Sunday,12,2024,Coupon,Anaya,35,9198517700,West
+2024-12-16,Flipkart,Shirt,Clothing,Topwear,North,195,1888.91,368337.94,0,1888.91,133.7,0,1,0.13,281,1932.34,2,94.45,0.37,0.82,Monday,12,2024,Coupon,Vivaan,19,9033709208,East
+2024-12-14,Flipkart,Shoes,Footwear,Casual Shoes,North,153,118.96,12740.58,30,83.27,3516.65,0,1,0.09,85,187.62,3,4.16,0.14,-0.43,Saturday,12,2024,Coupon,Myra,19,9986704102,East
+2024-12-05,Meesho,Shoes,Footwear,Casual Shoes,South,20,1767.18,28274.81,20,1413.74,1437.5,0,4,0.01,225,1839.6,1,70.69,0.2,0.86,Thursday,12,2024,Coupon,Kiara,34,9601132294,South
+2024-12-20,Meesho,Jeans,Clothing,Bottomwear,North,31,1957.24,54607.08,10,1761.52,2515.49,0,2,0.02,30,1925.11,2,88.08,0.19,-0.4,Friday,12,2024,Flash Sale,Kabir,27,9264323102,East
+2024-12-10,Ajio,Watch,Accessories,Watches,East,58,292.39,11871.19,30,204.68,3068.32,0,5,0.04,203,304.33,4,10.23,0.15,0.94,Tuesday,12,2024,Flash Sale,Reyansh,35,9100184875,North
+2024-12-22,Amazon,Shoes,Footwear,Casual Shoes,East,110,925.61,101816.97,0,925.61,4267.47,0,2,0.11,120,890.85,1,46.28,0.28,-0.02,Sunday,12,2024,Coupon,Myra,39,9094069776,North
+2024-12-24,Ajio,Watch,Accessories,Watches,South,120,1923.52,161575.42,30,1346.46,3615.13,1,2,0.07,383,1852.29,3,67.32,0.11,0.17,Tuesday,12,2024,Flash Sale,Diya,36,9143498377,South
+2025-01-01,Meesho,Shoes,Footwear,Casual Shoes,North,26,1102.88,25807.5,10,992.6,1952.32,0,1,0.14,317,1096.88,6,49.63,0.17,-0.35,Wednesday,1,2025,Flash Sale,Kabir,18,9154193608,West
+2025-01-04,Myntra,Smartphone,Electronics,Mobiles,South,196,116.47,18262.7,20,93.18,2695.26,0,4,0.1,386,16.74,5,4.66,0.31,0.72,Saturday,1,2025,Flash Sale,Kiara,41,9904671313,East
+2024-12-04,Myntra,Jeans,Clothing,Bottomwear,North,143,1491.15,191911.09,10,1342.04,3042.53,0,4,0.04,172,1558.77,5,67.1,0.21,0.04,Wednesday,12,2024,Bogo,Saanvi,53,9551330124,East
+2025-01-06,Flipkart,Shirt,Clothing,Topwear,North,98,172.59,16913.36,0,172.59,3299.66,0,2,0.14,249,191.31,6,8.63,0.35,-0.29,Monday,1,2025,Coupon,Reyansh,42,9752565950,South
+2024-12-15,Myntra,Jeans,Clothing,Bottomwear,North,112,1876.83,189184.16,10,1689.14,2049.54,0,2,0.03,468,1929.41,1,84.46,0.25,0.23,Sunday,12,2024,None,Saanvi,53,9263368182,South
+2024-12-02,Flipkart,Jeans,Clothing,Bottomwear,North,154,857.76,105676.0,20,686.21,2250.96,0,3,0.01,116,773.93,1,34.31,0.31,-0.88,Monday,12,2024,Flash Sale,Diya,48,9530857165,East
+2024-12-30,Meesho,Jeans,Clothing,Bottomwear,West,100,1012.2,80976.39,20,809.76,898.22,0,1,0.17,256,1078.85,6,40.49,0.37,-0.36,Monday,12,2024,Flash Sale,Reyansh,48,9113327612,West
+2024-12-16,Ajio,Shirt,Clothing,Topwear,East,155,731.01,113306.33,0,731.01,3602.29,0,5,0.08,374,733.47,3,36.55,0.11,0.39,Monday,12,2024,Coupon,Diya,19,9984127311,South
+2025-01-09,Amazon,Shoes,Footwear,Casual Shoes,East,75,1363.13,81788.08,20,1090.51,1450.23,0,5,0.18,425,1350.69,2,54.53,0.34,-0.61,Thursday,1,2025,Bogo,Saanvi,36,9576318384,North
+2025-01-14,Amazon,Jeans,Clothing,Bottomwear,North,12,1927.17,20813.4,10,1734.45,2582.79,0,4,0.11,397,1906.81,4,86.72,0.11,-0.2,Tuesday,1,2025,Bogo,Kiara,29,9641565297,East
+2025-01-01,Flipkart,Shirt,Clothing,Topwear,South,39,1559.37,48652.34,20,1247.5,930.04,0,1,0.14,412,1473.84,1,62.37,0.14,0.76,Wednesday,1,2025,Coupon,Reyansh,27,9248466414,South
+2024-12-05,Flipkart,Watch,Accessories,Watches,East,97,336.43,26107.07,20,269.15,4754.81,0,4,0.02,197,432.9,6,13.46,0.28,0.81,Thursday,12,2024,Flash Sale,Ishaan,48,9663052431,South
+2025-01-09,Meesho,Jeans,Clothing,Bottomwear,South,27,514.02,13878.5,0,514.02,1363.0,0,5,0.1,356,417.5,3,25.7,0.18,-0.66,Thursday,1,2025,Coupon,Anaya,39,9646834893,South
+2024-12-23,Myntra,Smartphone,Electronics,Mobiles,East,102,133.25,9513.81,30,93.27,636.51,0,2,0.2,72,90.06,3,4.66,0.18,-0.95,Monday,12,2024,Coupon,Kiara,40,9447336455,East
+2024-12-04,Meesho,Shoes,Footwear,Casual Shoes,South,140,809.29,101970.25,10,728.36,4497.41,0,1,0.16,54,740.52,2,36.42,0.36,-0.18,Wednesday,12,2024,None,Reyansh,40,9594487367,North
+2024-12-13,Ajio,Shoes,Footwear,Casual Shoes,South,70,907.07,57145.15,10,816.36,3072.99,0,1,0.02,303,873.67,2,40.82,0.34,0.65,Friday,12,2024,Coupon,Diya,32,9842395948,North
+2025-01-09,Ajio,Shirt,Clothing,Topwear,East,85,755.84,44972.58,30,529.09,1773.38,0,3,0.12,357,709.74,2,26.45,0.12,-0.86,Thursday,1,2025,None,Diya,43,9215640223,East
+2025-01-10,Myntra,Smartphone,Electronics,Mobiles,South,192,1208.07,162364.72,30,845.65,3543.68,0,2,0.05,467,1258.5,2,42.28,0.37,0.64,Friday,1,2025,None,Vivaan,20,9954058077,South
+2024-12-28,Amazon,Shirt,Clothing,Topwear,North,114,438.83,35018.62,30,307.18,2969.25,0,2,0.03,93,365.83,3,15.36,0.27,-0.28,Saturday,12,2024,Coupon,Kiara,40,9287294248,East
+2025-01-13,Myntra,Jeans,Clothing,Bottomwear,West,162,1371.73,199998.12,10,1234.56,1177.96,0,4,0.14,405,1373.55,1,61.73,0.2,0.64,Monday,1,2025,Coupon,Diya,37,9352247727,East
+2024-12-07,Flipkart,Jeans,Clothing,Bottomwear,North,103,444.18,36600.74,20,355.35,4311.14,0,1,0.04,446,365.56,2,17.77,0.16,0.84,Saturday,12,2024,Bogo,Aarav,57,9729919186,South
+2025-01-04,Ajio,Shirt,Clothing,Topwear,South,13,844.18,10974.39,0,844.18,3212.27,0,4,0.0,432,825.5,5,42.21,0.26,-0.35,Saturday,1,2025,None,Anaya,56,9567072253,East
+2025-01-10,Myntra,Shoes,Footwear,Casual Shoes,East,174,465.13,72839.08,10,418.62,1588.23,0,2,0.05,227,491.73,3,20.93,0.18,0.82,Friday,1,2025,Bogo,Saanvi,25,9339872000,West
+2024-12-24,Ajio,Jeans,Clothing,Bottomwear,West,53,1261.17,46789.37,30,882.82,952.42,1,3,0.13,70,1186.73,6,44.14,0.26,0.99,Tuesday,12,2024,Flash Sale,Kabir,35,9353277589,North
+2025-01-02,Ajio,Jeans,Clothing,Bottomwear,South,42,291.43,9792.06,20,233.14,1429.8,0,1,0.14,248,213.99,1,11.66,0.39,0.39,Thursday,1,2025,None,Vivaan,58,9075034678,West
+2024-12-06,Amazon,Shoes,Footwear,Casual Shoes,West,73,964.92,49307.32,30,675.44,2376.53,0,2,0.08,494,984.92,3,33.77,0.31,0.72,Friday,12,2024,Flash Sale,Diya,23,9598372393,West
+2024-12-15,Flipkart,Shirt,Clothing,Topwear,South,38,904.34,30928.32,10,813.9,4586.79,0,3,0.05,429,936.15,5,40.7,0.39,0.37,Sunday,12,2024,Coupon,Aarav,44,9585048452,West
+2025-01-06,Flipkart,Watch,Accessories,Watches,East,24,1087.05,26089.28,0,1087.05,3307.37,0,5,0.16,112,1105.44,6,54.35,0.23,0.1,Monday,1,2025,Bogo,Vivaan,53,9793349876,East
+2024-12-20,Ajio,Watch,Accessories,Watches,West,15,776.32,9315.84,20,621.06,4141.55,0,2,0.11,443,702.77,2,31.05,0.39,0.32,Friday,12,2024,Coupon,Aarav,32,9488991370,South
+2024-12-01,Meesho,Shirt,Clothing,Topwear,North,105,1309.18,96224.71,30,916.43,2860.05,0,5,0.03,230,1291.26,3,45.82,0.16,0.89,Sunday,12,2024,Coupon,Vivaan,54,9471179867,East
+2024-12-19,Amazon,Jeans,Clothing,Bottomwear,South,127,1487.46,132235.4,30,1041.22,2056.73,0,4,0.2,150,1390.8,3,52.06,0.2,0.46,Thursday,12,2024,Bogo,Diya,22,9403122893,North
+2024-12-13,Ajio,Jeans,Clothing,Bottomwear,West,120,591.55,70986.25,0,591.55,2612.36,0,5,0.2,347,614.21,1,29.58,0.3,0.4,Friday,12,2024,None,Aarav,56,9122675350,East
+2024-12-08,Myntra,Shoes,Footwear,Casual Shoes,West,155,805.7,124883.78,0,805.7,3031.3,0,2,0.2,117,834.21,1,40.29,0.29,-0.01,Sunday,12,2024,Coupon,Reyansh,26,9970415843,East
+2024-12-03,Flipkart,Watch,Accessories,Watches,North,52,556.28,23141.11,20,445.02,2732.59,0,5,0.12,458,484.04,4,22.25,0.15,-0.31,Tuesday,12,2024,Coupon,Kiara,24,9125774492,East
+2024-12-31,Flipkart,Watch,Accessories,Watches,West,121,856.68,103657.73,0,856.68,4283.94,1,1,0.11,76,846.02,2,42.83,0.12,0.45,Tuesday,12,2024,Coupon,Kabir,58,9650355259,East
+2024-12-26,Amazon,Jeans,Clothing,Bottomwear,North,90,1689.24,136828.08,10,1520.31,4439.24,0,2,0.18,11,1628.77,2,76.02,0.32,0.02,Thursday,12,2024,Bogo,Saanvi,37,9588138379,West
+2024-12-13,Flipkart,Shoes,Footwear,Casual Shoes,West,56,824.74,46185.33,0,824.74,3244.5,0,3,0.13,13,880.94,6,41.24,0.28,0.98,Friday,12,2024,Bogo,Kabir,27,9228970912,South
+2024-12-18,Myntra,Shoes,Footwear,Casual Shoes,North,72,1373.83,79132.33,20,1099.06,1722.62,0,5,0.08,479,1278.63,1,54.95,0.11,0.98,Wednesday,12,2024,Bogo,Saanvi,43,9127569950,North
+2025-01-07,Ajio,Shoes,Footwear,Casual Shoes,East,183,987.85,180775.81,0,987.85,2868.86,0,1,0.18,325,1048.13,4,49.39,0.13,-0.47,Tuesday,1,2025,Coupon,Ishaan,21,9209884388,North
+2025-01-06,Flipkart,Smartphone,Electronics,Mobiles,South,197,317.64,56316.88,10,285.87,4653.38,0,4,0.17,85,382.71,5,14.29,0.17,0.15,Monday,1,2025,Bogo,Anaya,55,9242910917,North
+2025-01-10,Myntra,Watch,Accessories,Watches,West,162,761.23,86322.96,30,532.86,2535.42,0,4,0.12,461,784.83,4,26.64,0.33,-0.55,Friday,1,2025,Bogo,Ishaan,41,9726618212,East
+2024-12-12,Amazon,Shirt,Clothing,Topwear,West,171,445.3,60917.65,20,356.24,186.01,0,5,0.15,441,389.96,1,17.81,0.21,-1.0,Thursday,12,2024,Coupon,Myra,31,9174247650,North
+2025-01-13,Flipkart,Shirt,Clothing,Topwear,East,73,1028.59,52560.92,30,720.01,2819.9,0,4,0.04,196,1065.09,4,36.0,0.39,-0.11,Monday,1,2025,Coupon,Diya,58,9900977653,West
+2024-12-14,Meesho,Jeans,Clothing,Bottomwear,East,88,539.94,47514.9,0,539.94,2839.39,0,3,0.04,181,585.79,3,27.0,0.31,-0.25,Saturday,12,2024,Bogo,Reyansh,18,9080326443,South
+2025-01-02,Flipkart,Shoes,Footwear,Casual Shoes,South,102,344.18,28085.07,20,275.34,1446.99,0,2,0.08,153,290.98,6,13.77,0.29,-0.68,Thursday,1,2025,Coupon,Kiara,34,9043971703,East
+2025-01-05,Myntra,Shirt,Clothing,Topwear,East,113,1435.6,146000.55,10,1292.04,1578.99,0,1,0.07,197,1503.99,5,64.6,0.2,-0.18,Sunday,1,2025,Coupon,Reyansh,41,9244437230,East
+2024-12-09,Flipkart,Watch,Accessories,Watches,South,188,1336.85,226194.95,10,1203.16,1523.88,0,5,0.02,58,1328.7,3,60.16,0.34,-0.6,Monday,12,2024,Coupon,Kabir,44,9601602555,West
+2024-12-29,Myntra,Shirt,Clothing,Topwear,North,82,1854.13,106426.78,30,1297.89,2316.34,0,4,0.06,228,1921.24,2,64.89,0.3,-0.45,Sunday,12,2024,Flash Sale,Saanvi,24,9115946647,North
+2024-12-23,Amazon,Jeans,Clothing,Bottomwear,North,128,114.76,13219.96,10,103.28,3021.1,0,2,0.04,43,152.19,6,5.16,0.35,-0.08,Monday,12,2024,Coupon,Ishaan,26,9954363440,East
+2024-12-23,Ajio,Smartphone,Electronics,Mobiles,North,198,1899.07,338414.7,10,1709.17,1627.1,0,3,0.01,325,1981.85,3,85.46,0.24,-0.29,Monday,12,2024,None,Reyansh,52,9022115054,East
+2025-01-08,Ajio,Shoes,Footwear,Casual Shoes,North,82,1374.34,112695.54,0,1374.34,265.57,0,4,0.04,479,1332.39,4,68.72,0.24,-0.33,Wednesday,1,2025,Coupon,Ishaan,29,9546025063,West
+2024-12-12,Myntra,Shoes,Footwear,Casual Shoes,North,31,847.07,26259.2,0,847.07,833.05,0,4,0.08,425,888.94,3,42.35,0.18,0.04,Thursday,12,2024,None,Anaya,38,9298070497,West
+2024-12-10,Flipkart,Jeans,Clothing,Bottomwear,East,10,611.02,5499.2,10,549.92,447.57,0,1,0.07,267,631.84,3,27.5,0.14,-0.45,Tuesday,12,2024,None,Anaya,20,9567555471,North
+2024-12-23,Amazon,Shoes,Footwear,Casual Shoes,South,61,505.73,30849.62,0,505.73,3639.82,0,3,0.1,276,483.91,4,25.29,0.36,-0.16,Monday,12,2024,Bogo,Saanvi,32,9630423643,South
+2024-12-18,Amazon,Watch,Accessories,Watches,North,184,793.16,116753.55,20,634.53,4547.9,0,3,0.14,357,804.46,3,31.73,0.38,0.06,Wednesday,12,2024,None,Myra,38,9059560389,South
+2024-12-04,Flipkart,Shoes,Footwear,Casual Shoes,East,126,1247.07,125704.75,20,997.66,2051.03,0,5,0.18,385,1240.21,3,49.88,0.32,-0.1,Wednesday,12,2024,Coupon,Reyansh,27,9513539625,North
+2025-01-15,Ajio,Shoes,Footwear,Casual Shoes,East,47,1001.31,47061.48,0,1001.31,1805.54,0,1,0.12,202,1044.88,5,50.07,0.27,-1.0,Wednesday,1,2025,Coupon,Kiara,50,9322129028,South
+2025-01-03,Ajio,Smartphone,Electronics,Mobiles,South,115,592.17,47669.43,30,414.52,1277.29,0,5,0.12,149,527.89,3,20.73,0.33,0.59,Friday,1,2025,Coupon,Ishaan,23,9327040641,West
+2025-01-07,Myntra,Shoes,Footwear,Casual Shoes,East,141,1418.37,159992.51,20,1134.7,4232.8,0,1,0.01,170,1439.21,1,56.73,0.2,-0.21,Tuesday,1,2025,Coupon,Ishaan,19,9060255606,West
+2024-12-12,Myntra,Jeans,Clothing,Bottomwear,North,70,931.22,45629.57,30,651.85,107.22,0,3,0.19,37,977.56,4,32.59,0.32,0.7,Thursday,12,2024,Coupon,Anaya,46,9157492773,West
+2025-01-06,Ajio,Watch,Accessories,Watches,South,48,1894.04,63639.62,30,1325.83,3896.93,0,1,0.1,486,1958.97,6,66.29,0.25,-0.94,Monday,1,2025,None,Diya,57,9744268800,South
+2024-12-20,Amazon,Shoes,Footwear,Casual Shoes,North,44,1800.61,71304.06,10,1620.55,3278.86,0,1,0.09,441,1709.82,4,81.03,0.25,-0.36,Friday,12,2024,Flash Sale,Saanvi,50,9940301137,South
+2024-12-18,Meesho,Watch,Accessories,Watches,East,39,1377.28,53713.78,0,1377.28,830.79,0,1,0.12,422,1473.78,5,68.86,0.1,-0.55,Wednesday,12,2024,Coupon,Ishaan,21,9188109981,East
+2024-12-08,Ajio,Smartphone,Electronics,Mobiles,South,113,468.51,37059.33,30,327.96,4020.35,0,2,0.11,383,531.54,3,16.4,0.16,-0.29,Sunday,12,2024,None,Anaya,21,9720091651,East
+2025-01-13,Meesho,Shoes,Footwear,Casual Shoes,North,156,1290.28,181155.5,10,1161.25,3666.39,0,2,0.13,486,1247.72,6,58.06,0.14,0.8,Monday,1,2025,Bogo,Anaya,46,9310239446,East
+2024-12-04,Amazon,Jeans,Clothing,Bottomwear,North,144,1488.04,192850.42,10,1339.24,782.43,0,3,0.12,499,1536.34,3,66.96,0.34,-0.7,Wednesday,12,2024,None,Aarav,54,9978648798,South
+2025-01-09,Flipkart,Watch,Accessories,Watches,North,23,1353.66,24907.34,20,1082.93,4248.1,0,1,0.11,39,1358.26,3,54.15,0.26,0.62,Thursday,1,2025,None,Ishaan,37,9975388998,East
+2024-12-06,Meesho,Shoes,Footwear,Casual Shoes,East,195,1833.49,250271.43,30,1283.44,1980.85,0,3,0.17,224,1759.8,4,64.17,0.37,-0.64,Friday,12,2024,Bogo,Aarav,58,9922555441,West
+2024-12-12,Meesho,Jeans,Clothing,Bottomwear,East,90,409.13,25775.16,30,286.39,3841.54,0,2,0.12,420,310.94,5,14.32,0.21,0.1,Thursday,12,2024,Coupon,Kiara,40,9632733708,South
+2025-01-05,Ajio,Watch,Accessories,Watches,South,87,1278.55,111233.71,0,1278.55,3575.64,0,1,0.07,159,1270.47,5,63.93,0.29,-0.4,Sunday,1,2025,Bogo,Kiara,35,9615745975,North
+2025-01-03,Amazon,Smartphone,Electronics,Mobiles,West,113,1801.74,142517.68,30,1261.22,3995.86,0,5,0.14,419,1726.98,6,63.06,0.33,0.93,Friday,1,2025,Flash Sale,Anaya,42,9888582417,South
+2024-12-10,Ajio,Smartphone,Electronics,Mobiles,East,72,287.86,16580.73,20,230.29,2952.77,0,2,0.12,99,266.45,2,11.51,0.15,-0.14,Tuesday,12,2024,Bogo,Diya,18,9355406970,East
+2024-12-06,Ajio,Jeans,Clothing,Bottomwear,South,19,239.64,4097.91,10,215.68,1721.36,0,2,0.13,360,225.82,4,10.78,0.28,0.9,Friday,12,2024,None,Diya,32,9963584741,South
+2024-12-28,Ajio,Shoes,Footwear,Casual Shoes,North,41,505.72,14514.2,30,354.0,4814.76,0,2,0.17,14,508.03,2,17.7,0.37,-0.69,Saturday,12,2024,Coupon,Aarav,51,9316626008,East
+2024-12-13,Flipkart,Jeans,Clothing,Bottomwear,South,92,1293.19,83281.27,30,905.23,3402.7,0,1,0.11,125,1271.32,5,45.26,0.21,0.24,Friday,12,2024,None,Anaya,37,9545504832,East
+2025-01-13,Flipkart,Watch,Accessories,Watches,South,127,1438.71,146173.29,20,1150.97,2362.71,0,4,0.15,80,1375.02,3,57.55,0.32,-0.13,Monday,1,2025,Coupon,Aarav,54,9012365785,North
+2024-12-06,Meesho,Watch,Accessories,Watches,South,23,1945.65,35799.97,20,1556.52,2123.85,0,5,0.09,315,1926.65,6,77.83,0.25,-0.28,Friday,12,2024,Flash Sale,Saanvi,44,9631883295,North
+2025-01-12,Myntra,Shirt,Clothing,Topwear,West,47,1521.95,64378.62,10,1369.76,4282.06,0,5,0.06,229,1507.52,1,68.49,0.1,0.92,Sunday,1,2025,Coupon,Aarav,39,9203012793,West
+2025-01-11,Myntra,Shirt,Clothing,Topwear,North,81,912.95,59159.29,20,730.36,4782.04,0,3,0.01,414,814.4,5,36.52,0.27,-0.29,Saturday,1,2025,None,Myra,22,9398612339,East
+2024-12-28,Ajio,Watch,Accessories,Watches,East,175,1276.33,223357.87,0,1276.33,1515.31,0,1,0.12,177,1200.56,2,63.82,0.25,-0.34,Saturday,12,2024,Coupon,Ishaan,51,9799528978,South
+2024-12-16,Flipkart,Jeans,Clothing,Bottomwear,East,185,1413.01,261406.12,0,1413.01,2256.28,0,2,0.19,148,1399.0,1,70.65,0.35,-0.65,Monday,12,2024,None,Kiara,56,9423488265,North
+2024-12-30,Amazon,Smartphone,Electronics,Mobiles,East,82,1203.84,88843.42,10,1083.46,443.5,0,4,0.1,434,1246.06,3,54.17,0.29,-0.74,Monday,12,2024,Flash Sale,Vivaan,20,9349163151,North
+2024-12-11,Myntra,Shoes,Footwear,Casual Shoes,West,109,1902.81,165924.8,20,1522.25,2515.04,0,1,0.11,181,1856.14,5,76.11,0.24,0.93,Wednesday,12,2024,Bogo,Anaya,34,9916069405,East
+2025-01-08,Amazon,Shoes,Footwear,Casual Shoes,East,190,1202.07,182715.12,20,961.66,1253.5,0,1,0.08,248,1254.92,6,48.08,0.24,-0.02,Wednesday,1,2025,Bogo,Diya,41,9608602431,South
+2024-12-17,Flipkart,Shirt,Clothing,Topwear,West,134,940.0,100768.36,20,752.0,2473.52,0,4,0.11,460,954.4,5,37.6,0.33,-0.69,Tuesday,12,2024,Bogo,Reyansh,41,9036387740,North
+2025-01-07,Myntra,Shirt,Clothing,Topwear,East,47,1454.27,68350.52,0,1454.27,1902.45,0,2,0.02,439,1511.42,3,72.71,0.21,-0.5,Tuesday,1,2025,Coupon,Ishaan,20,9815949725,North
+2024-12-23,Flipkart,Shoes,Footwear,Casual Shoes,South,76,197.21,11990.64,20,157.77,2301.41,0,1,0.19,446,198.04,1,7.89,0.12,-0.11,Monday,12,2024,Bogo,Vivaan,24,9592634859,South
+2024-12-28,Ajio,Shirt,Clothing,Topwear,East,32,694.4,17776.76,20,555.52,825.49,0,5,0.12,283,638.28,3,27.78,0.26,0.58,Saturday,12,2024,None,Myra,42,9378941574,North
+2024-12-24,Meesho,Watch,Accessories,Watches,South,38,1650.32,62712.01,0,1650.32,1377.24,1,5,0.08,2,1676.25,1,82.52,0.31,0.81,Tuesday,12,2024,Coupon,Reyansh,20,9078079131,South
+2025-01-03,Flipkart,Smartphone,Electronics,Mobiles,South,27,310.75,7551.19,10,279.67,3353.96,0,4,0.03,318,304.27,2,13.98,0.34,0.96,Friday,1,2025,Bogo,Diya,32,9192736929,East
+2024-12-23,Flipkart,Smartphone,Electronics,Mobiles,North,49,919.3,31531.99,30,643.51,1445.86,0,2,0.07,10,963.74,5,32.18,0.27,0.26,Monday,12,2024,Flash Sale,Myra,46,9215506327,North
+2024-12-08,Flipkart,Watch,Accessories,Watches,East,147,139.8,14384.95,30,97.86,2621.82,0,4,0.16,359,164.73,2,4.89,0.3,-0.98,Sunday,12,2024,Bogo,Diya,46,9187723113,East
+2024-12-09,Flipkart,Shoes,Footwear,Casual Shoes,North,26,1264.51,29589.54,10,1138.06,2345.67,0,1,0.03,1,1297.35,1,56.9,0.3,-0.08,Monday,12,2024,Bogo,Diya,27,9540905226,South
+2024-12-08,Amazon,Shoes,Footwear,Casual Shoes,South,190,1622.92,308354.9,0,1622.92,308.9,0,5,0.05,394,1613.8,4,81.15,0.18,-0.7,Sunday,12,2024,Flash Sale,Anaya,49,9009270938,East
+2025-01-04,Myntra,Watch,Accessories,Watches,West,199,849.52,152149.18,10,764.57,4795.81,0,3,0.0,252,948.72,3,38.23,0.27,0.97,Saturday,1,2025,Flash Sale,Reyansh,40,9397626692,East
+2025-01-14,Ajio,Jeans,Clothing,Bottomwear,East,87,1181.74,92530.0,10,1063.56,3817.99,0,4,0.06,249,1141.71,4,53.18,0.14,0.14,Tuesday,1,2025,None,Saanvi,56,9180631176,East
+2024-12-26,Myntra,Watch,Accessories,Watches,East,145,937.15,122297.54,10,843.43,2257.83,0,3,0.16,113,1011.82,1,42.17,0.3,0.05,Thursday,12,2024,Bogo,Aarav,26,9649711405,West
+2024-12-29,Meesho,Jeans,Clothing,Bottomwear,West,80,1411.05,79018.75,30,987.73,1946.37,0,3,0.0,75,1446.23,5,49.39,0.18,0.61,Sunday,12,2024,Coupon,Aarav,54,9356276056,South
+2024-12-04,Amazon,Shoes,Footwear,Casual Shoes,West,189,854.85,161565.87,0,854.85,2745.32,0,5,0.08,172,898.85,3,42.74,0.31,0.09,Wednesday,12,2024,Coupon,Ishaan,57,9319860723,South
+2025-01-04,Flipkart,Smartphone,Electronics,Mobiles,North,91,1379.68,87885.74,30,965.78,3217.47,0,4,0.18,439,1308.0,1,48.29,0.16,0.69,Saturday,1,2025,Bogo,Diya,31,9405951957,South
+2024-12-09,Meesho,Shirt,Clothing,Topwear,West,30,412.94,9910.61,20,330.35,3816.28,0,3,0.0,231,488.51,6,16.52,0.15,-0.49,Monday,12,2024,None,Ishaan,21,9533857762,South
+2025-01-07,Myntra,Jeans,Clothing,Bottomwear,East,95,1047.86,99546.54,0,1047.86,2200.75,0,1,0.19,69,1116.58,2,52.39,0.2,0.62,Tuesday,1,2025,Coupon,Reyansh,37,9904991916,South
+2025-01-12,Myntra,Shoes,Footwear,Casual Shoes,West,105,735.59,54065.85,30,514.91,4795.43,0,2,0.05,428,835.04,4,25.75,0.36,-0.13,Sunday,1,2025,Bogo,Diya,45,9278754226,North
+2025-01-13,Myntra,Shoes,Footwear,Casual Shoes,East,147,1230.88,144751.53,20,984.7,533.98,0,2,0.07,421,1238.76,4,49.24,0.29,0.52,Monday,1,2025,Coupon,Diya,31,9455807945,North
+2024-12-31,Flipkart,Shirt,Clothing,Topwear,East,10,1803.82,18038.18,0,1803.82,4317.97,1,5,0.01,476,1831.67,4,90.19,0.24,0.51,Tuesday,12,2024,None,Vivaan,51,9502585508,North
+2024-12-02,Meesho,Watch,Accessories,Watches,West,110,1526.17,117514.94,30,1068.32,2922.03,0,4,0.03,496,1581.45,6,53.42,0.27,-0.52,Monday,12,2024,Coupon,Kiara,30,9310224060,East
+2024-12-02,Flipkart,Shirt,Clothing,Topwear,East,14,968.8,12206.93,10,871.92,353.24,0,4,0.11,310,896.47,5,43.6,0.39,0.43,Monday,12,2024,Coupon,Aarav,48,9350696235,East
+2025-01-04,Myntra,Shoes,Footwear,Casual Shoes,North,81,957.94,54315.16,30,670.56,3190.12,0,2,0.1,329,1033.44,5,33.53,0.23,0.14,Saturday,1,2025,Coupon,Reyansh,50,9639888951,South
+2024-12-06,Meesho,Jeans,Clothing,Bottomwear,West,144,978.98,126876.28,10,881.09,4807.82,0,1,0.17,292,948.17,4,44.05,0.33,0.01,Friday,12,2024,Flash Sale,Myra,56,9138251047,West
+2024-12-03,Amazon,Watch,Accessories,Watches,West,174,1538.45,214152.84,20,1230.76,1312.01,0,2,0.03,50,1493.4,4,61.54,0.17,0.34,Tuesday,12,2024,Bogo,Myra,45,9991987203,South
+2025-01-06,Amazon,Jeans,Clothing,Bottomwear,East,42,1836.9,61719.75,20,1469.52,4071.12,0,2,0.14,107,1822.67,4,73.48,0.13,-0.46,Monday,1,2025,Flash Sale,Saanvi,42,9729163541,North
+2024-12-13,Myntra,Shoes,Footwear,Casual Shoes,South,130,594.45,69550.6,10,535.0,648.22,0,4,0.16,347,627.29,3,26.75,0.34,0.37,Friday,12,2024,Coupon,Kabir,49,9918917700,South
+2024-12-22,Amazon,Jeans,Clothing,Bottomwear,South,121,1644.82,159218.51,20,1315.86,4697.09,0,3,0.07,55,1670.31,5,65.79,0.38,-0.59,Sunday,12,2024,None,Reyansh,26,9310820174,East
+2024-12-26,Flipkart,Shirt,Clothing,Topwear,North,127,334.31,29719.73,30,234.01,1293.29,0,1,0.02,353,264.99,2,11.7,0.15,0.6,Thursday,12,2024,Coupon,Kabir,45,9650563776,South
+2024-12-21,Myntra,Smartphone,Electronics,Mobiles,North,83,1466.55,121723.27,0,1466.55,743.31,0,4,0.04,126,1500.5,4,73.33,0.3,-0.4,Saturday,12,2024,Bogo,Vivaan,48,9155651738,North
+2024-12-15,Meesho,Shoes,Footwear,Casual Shoes,East,72,340.08,24485.57,0,340.08,4948.31,0,2,0.07,218,344.63,5,17.0,0.32,-0.01,Sunday,12,2024,Bogo,Myra,34,9722718352,South
+2024-12-28,Amazon,Smartphone,Electronics,Mobiles,East,45,568.06,17893.94,30,397.64,4170.12,0,3,0.12,204,518.7,2,19.88,0.11,-0.48,Saturday,12,2024,None,Reyansh,40,9229178792,East
+2024-12-01,Amazon,Shoes,Footwear,Casual Shoes,South,140,1733.89,194195.32,20,1387.11,935.57,0,1,0.19,315,1746.54,2,69.36,0.19,-0.8,Sunday,12,2024,Bogo,Diya,30,9691354893,West
+2024-12-22,Meesho,Watch,Accessories,Watches,West,65,1868.9,85034.83,30,1308.23,2318.84,0,5,0.19,119,1863.35,6,65.41,0.39,0.65,Sunday,12,2024,None,Kiara,27,9437720511,North
+2024-12-22,Ajio,Smartphone,Electronics,Mobiles,North,51,1925.42,68737.42,30,1347.79,3962.18,0,1,0.11,61,1964.0,1,67.39,0.16,0.73,Sunday,12,2024,Flash Sale,Anaya,33,9272699870,South
+2024-12-18,Flipkart,Shirt,Clothing,Topwear,South,97,1855.8,180013.05,0,1855.8,3855.98,0,1,0.07,117,1881.43,1,92.79,0.3,-0.39,Wednesday,12,2024,Bogo,Kiara,23,9667949887,East
+2025-01-14,Meesho,Watch,Accessories,Watches,West,171,1720.62,264802.9,10,1548.55,2034.46,0,2,0.18,74,1798.91,2,77.43,0.37,-0.81,Tuesday,1,2025,Bogo,Saanvi,28,9550533134,North
+2024-12-30,Meesho,Smartphone,Electronics,Mobiles,East,90,195.96,14109.42,20,156.77,4916.8,0,2,0.16,458,134.05,6,7.84,0.22,-0.35,Monday,12,2024,Coupon,Myra,20,9443097218,North
+2025-01-13,Amazon,Watch,Accessories,Watches,East,125,355.6,44449.8,0,355.6,2538.12,0,5,0.02,471,436.15,2,17.78,0.19,0.43,Monday,1,2025,Flash Sale,Ishaan,45,9681898899,East
+2025-01-07,Ajio,Shirt,Clothing,Topwear,South,12,728.51,6119.49,30,509.96,4072.53,0,5,0.06,132,819.97,2,25.5,0.19,-0.38,Tuesday,1,2025,None,Ishaan,58,9392528217,South
+2024-12-12,Ajio,Watch,Accessories,Watches,East,198,1480.82,293203.06,0,1480.82,3878.5,0,5,0.03,440,1473.48,5,74.04,0.18,-0.15,Thursday,12,2024,None,Anaya,32,9576279009,South
+2025-01-07,Amazon,Shoes,Footwear,Casual Shoes,West,104,1065.51,110813.16,0,1065.51,2105.06,0,4,0.11,235,1092.38,4,53.28,0.25,-0.66,Tuesday,1,2025,Coupon,Myra,30,9789541857,South
+2024-12-31,Ajio,Shirt,Clothing,Topwear,East,170,1696.84,201924.11,30,1187.79,279.49,1,4,0.17,484,1675.58,1,59.39,0.36,0.54,Tuesday,12,2024,Bogo,Reyansh,59,9887972210,North
+2024-12-03,Flipkart,Shoes,Footwear,Casual Shoes,South,142,1613.3,206179.28,10,1451.97,4640.28,0,2,0.05,471,1522.47,6,72.6,0.25,-0.34,Tuesday,12,2024,Coupon,Diya,34,9311430834,West
+2024-12-13,Myntra,Jeans,Clothing,Bottomwear,West,132,1440.38,171116.62,10,1296.34,2547.22,0,2,0.03,334,1353.18,2,64.82,0.25,0.57,Friday,12,2024,Flash Sale,Saanvi,24,9617194113,North
+2024-12-20,Flipkart,Jeans,Clothing,Bottomwear,North,13,560.13,5825.37,20,448.11,1936.64,0,5,0.14,104,610.01,4,22.41,0.4,-0.53,Friday,12,2024,Coupon,Ishaan,45,9375976931,South
+2024-12-15,Flipkart,Watch,Accessories,Watches,North,81,935.51,53043.24,30,654.85,862.3,0,4,0.13,92,882.01,4,32.74,0.35,-0.27,Sunday,12,2024,Bogo,Anaya,55,9810798061,North
+2024-12-03,Meesho,Shoes,Footwear,Casual Shoes,West,23,1274.68,23454.19,20,1019.75,2703.2,0,3,0.01,186,1225.17,3,50.99,0.37,0.02,Tuesday,12,2024,Coupon,Kiara,30,9540119950,West
+2024-12-16,Meesho,Shoes,Footwear,Casual Shoes,North,175,986.72,155407.92,10,888.05,4573.17,0,4,0.04,71,1048.4,6,44.4,0.33,0.56,Monday,12,2024,Coupon,Diya,34,9394116650,North
+2024-12-26,Amazon,Shoes,Footwear,Casual Shoes,East,111,1587.22,140944.85,20,1269.77,110.7,0,2,0.03,273,1655.66,1,63.49,0.39,0.22,Thursday,12,2024,Coupon,Ishaan,32,9289017689,East
+2024-12-17,Flipkart,Watch,Accessories,Watches,South,51,944.6,38539.83,20,755.68,4943.26,0,4,0.16,383,996.94,5,37.78,0.36,-0.42,Tuesday,12,2024,None,Kiara,53,9336098106,South
+2024-12-05,Amazon,Shirt,Clothing,Topwear,East,34,568.16,15454.06,20,454.53,481.05,0,2,0.19,101,586.21,3,22.73,0.19,0.61,Thursday,12,2024,None,Reyansh,45,9520493400,South
+2024-12-07,Ajio,Shoes,Footwear,Casual Shoes,South,75,823.73,55601.65,10,741.36,4691.09,0,5,0.06,179,779.67,2,37.07,0.28,0.03,Saturday,12,2024,Coupon,Kiara,32,9454184498,South
+2024-12-24,Amazon,Shirt,Clothing,Topwear,South,91,1685.47,107364.48,30,1179.83,3396.88,1,5,0.19,211,1713.56,1,58.99,0.23,-0.93,Tuesday,12,2024,None,Diya,28,9244131491,North
+2024-12-31,Amazon,Shirt,Clothing,Topwear,North,70,1166.19,73469.68,10,1049.57,3132.78,1,5,0.18,10,1123.44,5,52.48,0.15,0.18,Tuesday,12,2024,Flash Sale,Kiara,48,9989578744,North
+2024-12-29,Myntra,Watch,Accessories,Watches,East,116,1529.44,159673.21,10,1376.49,2358.26,0,3,0.03,287,1430.45,3,68.82,0.36,0.25,Sunday,12,2024,Coupon,Reyansh,21,9507158219,North
+2024-12-23,Meesho,Shirt,Clothing,Topwear,East,102,1049.14,107012.47,0,1049.14,3267.4,0,3,0.11,486,1113.89,6,52.46,0.12,-0.13,Monday,12,2024,Coupon,Saanvi,52,9485776419,South
+2024-12-15,Amazon,Watch,Accessories,Watches,South,99,863.59,85494.98,0,863.59,2964.05,0,2,0.13,437,880.22,4,43.18,0.21,-0.9,Sunday,12,2024,Bogo,Diya,51,9946616567,North
+2024-12-18,Meesho,Jeans,Clothing,Bottomwear,North,87,381.88,23256.77,30,267.32,1552.0,0,1,0.03,186,356.19,5,13.37,0.12,0.88,Wednesday,12,2024,Flash Sale,Saanvi,44,9307722424,South
+2024-12-29,Ajio,Shirt,Clothing,Topwear,South,73,134.18,8815.46,10,120.76,4669.98,0,3,0.15,176,193.24,1,6.04,0.25,0.76,Sunday,12,2024,None,Anaya,27,9701138186,North
+2024-12-27,Meesho,Shirt,Clothing,Topwear,East,20,168.33,2693.36,20,134.67,4057.37,0,2,0.18,22,138.11,5,6.73,0.12,0.57,Friday,12,2024,Bogo,Myra,47,9970483151,South
+2024-12-10,Ajio,Shoes,Footwear,Casual Shoes,East,174,1791.18,311666.08,0,1791.18,4738.56,0,4,0.1,401,1818.56,3,89.56,0.22,0.58,Tuesday,12,2024,Coupon,Kiara,37,9272152025,East
+2024-12-19,Meesho,Jeans,Clothing,Bottomwear,North,57,436.92,19923.57,20,349.54,941.96,0,5,0.04,443,339.84,5,17.48,0.34,-0.97,Thursday,12,2024,Coupon,Vivaan,46,9286418468,North
+2024-12-29,Ajio,Smartphone,Electronics,Mobiles,West,99,639.12,44290.77,30,447.38,3914.73,0,5,0.12,338,616.74,2,22.37,0.15,-0.63,Sunday,12,2024,None,Saanvi,46,9380517421,South
+2024-12-18,Amazon,Shoes,Footwear,Casual Shoes,West,47,1094.1,41138.34,20,875.28,3477.62,0,5,0.06,425,1024.89,3,43.76,0.34,0.17,Wednesday,12,2024,Flash Sale,Reyansh,40,9768731115,East
+2024-12-26,Ajio,Watch,Accessories,Watches,South,84,1425.94,107801.24,10,1283.35,3577.71,0,2,0.1,127,1355.7,2,64.17,0.23,-0.1,Thursday,12,2024,None,Ishaan,38,9651323468,East
+2024-12-20,Myntra,Smartphone,Electronics,Mobiles,North,182,1136.43,186147.5,10,1022.79,1560.09,0,5,0.18,129,1115.89,4,51.14,0.14,-0.38,Friday,12,2024,None,Saanvi,27,9172893295,West
+2024-12-03,Ajio,Jeans,Clothing,Bottomwear,South,177,920.15,130293.68,20,736.12,1955.99,0,3,0.18,319,934.31,3,36.81,0.4,0.21,Tuesday,12,2024,None,Ishaan,58,9986329322,North
+2024-12-24,Meesho,Shirt,Clothing,Topwear,West,54,554.73,29955.49,0,554.73,1338.9,1,4,0.05,184,455.47,2,27.74,0.32,-0.49,Tuesday,12,2024,Bogo,Kiara,29,9838946401,South
+2024-12-03,Ajio,Smartphone,Electronics,Mobiles,North,190,293.39,50169.13,10,264.05,1890.25,0,5,0.17,445,250.41,1,13.2,0.12,0.05,Tuesday,12,2024,Bogo,Anaya,47,9456198511,West
+2024-12-29,Ajio,Jeans,Clothing,Bottomwear,South,114,1866.75,170247.96,20,1493.4,1436.69,0,2,0.18,385,1816.15,1,74.67,0.22,-0.08,Sunday,12,2024,Coupon,Aarav,50,9208934602,North
+2024-12-24,Ajio,Shoes,Footwear,Casual Shoes,South,94,1290.86,84938.85,30,903.6,181.69,1,4,0.05,113,1259.92,5,45.18,0.2,0.01,Tuesday,12,2024,None,Diya,35,9217401058,East
+2024-12-01,Meesho,Smartphone,Electronics,Mobiles,East,137,1634.14,156713.67,30,1143.9,1845.86,0,5,0.05,282,1619.56,4,57.19,0.21,-0.39,Sunday,12,2024,Flash Sale,Ishaan,31,9642793845,North
+2024-12-16,Myntra,Shoes,Footwear,Casual Shoes,West,69,463.15,28761.68,10,416.84,3471.42,0,1,0.19,278,376.29,5,20.84,0.17,-0.39,Monday,12,2024,Bogo,Ishaan,39,9496601673,South
+2024-12-24,Flipkart,Watch,Accessories,Watches,North,91,827.38,52704.33,30,579.17,2497.27,1,5,0.02,388,879.81,2,28.96,0.23,0.88,Tuesday,12,2024,None,Diya,38,9592626721,East
+2024-12-02,Ajio,Shoes,Footwear,Casual Shoes,North,84,322.43,18958.73,30,225.7,3471.35,0,3,0.17,229,239.25,5,11.28,0.17,-0.21,Monday,12,2024,Coupon,Aarav,18,9537131110,West
+2024-12-14,Flipkart,Jeans,Clothing,Bottomwear,West,57,1250.71,49903.41,30,875.5,4672.32,0,4,0.2,16,1191.96,5,43.77,0.33,0.36,Saturday,12,2024,Flash Sale,Kiara,32,9318865260,North
+2024-12-28,Flipkart,Smartphone,Electronics,Mobiles,North,138,1785.0,197063.75,20,1428.0,4155.15,0,3,0.12,217,1842.31,5,71.4,0.26,0.72,Saturday,12,2024,Coupon,Reyansh,53,9835523925,North
+2025-01-10,Flipkart,Smartphone,Electronics,Mobiles,East,117,502.85,47067.03,20,402.28,4547.64,0,1,0.11,112,523.84,5,20.11,0.29,-0.53,Friday,1,2025,Bogo,Myra,39,9077850204,West
+2025-01-12,Ajio,Shoes,Footwear,Casual Shoes,East,34,1156.51,31457.04,20,925.21,3522.55,0,1,0.07,68,1180.56,4,46.26,0.36,-0.55,Sunday,1,2025,Bogo,Ishaan,49,9212872140,North
+2025-01-03,Meesho,Smartphone,Electronics,Mobiles,South,165,1959.16,290935.46,10,1763.25,1100.77,0,3,0.2,303,1909.52,1,88.16,0.2,-0.58,Friday,1,2025,Flash Sale,Aarav,50,9370435680,North
+2025-01-07,Meesho,Watch,Accessories,Watches,East,120,677.89,65077.92,20,542.32,4055.24,0,4,0.07,26,732.87,6,27.12,0.18,0.54,Tuesday,1,2025,Coupon,Aarav,58,9935966797,North
+2024-12-18,Flipkart,Smartphone,Electronics,Mobiles,East,44,1350.39,59417.35,0,1350.39,621.05,0,1,0.19,172,1273.42,1,67.52,0.22,-0.23,Wednesday,12,2024,Coupon,Anaya,56,9777582547,East
+2024-12-15,Meesho,Jeans,Clothing,Bottomwear,East,55,1627.23,89497.61,0,1627.23,2444.63,0,1,0.06,407,1652.03,4,81.36,0.25,-0.84,Sunday,12,2024,Coupon,Ishaan,40,9339945311,East
+2025-01-12,Myntra,Smartphone,Electronics,Mobiles,South,64,927.24,41540.35,30,649.07,2393.13,0,5,0.13,355,929.22,3,32.45,0.31,-0.96,Sunday,1,2025,Coupon,Saanvi,19,9210749087,South
+2025-01-11,Meesho,Shirt,Clothing,Topwear,East,114,456.46,52036.54,0,456.46,1576.01,0,2,0.18,303,448.65,4,22.82,0.32,0.53,Saturday,1,2025,Coupon,Kiara,19,9379660539,North
+2024-12-12,Ajio,Smartphone,Electronics,Mobiles,North,80,1707.11,136569.13,0,1707.11,2155.3,0,1,0.1,398,1716.02,5,85.36,0.28,-0.63,Thursday,12,2024,Coupon,Reyansh,55,9991968474,South
+2024-12-10,Meesho,Smartphone,Electronics,Mobiles,South,77,829.29,51084.5,20,663.44,3347.06,0,4,0.12,423,879.53,1,33.17,0.22,-0.36,Tuesday,12,2024,None,Aarav,46,9668201599,East
+2024-12-14,Amazon,Smartphone,Electronics,Mobiles,South,38,972.46,29562.77,20,777.97,978.34,0,4,0.05,406,958.38,5,38.9,0.32,0.46,Saturday,12,2024,Flash Sale,Anaya,20,9829101261,North
+2024-12-01,Amazon,Smartphone,Electronics,Mobiles,West,58,1097.07,50904.13,20,877.66,783.52,0,5,0.07,189,1015.19,6,43.88,0.16,0.03,Sunday,12,2024,Bogo,Anaya,56,9416977798,South
+2024-12-01,Flipkart,Jeans,Clothing,Bottomwear,North,91,1125.42,71688.94,30,787.79,1848.09,0,4,0.11,40,1084.67,5,39.39,0.12,0.97,Sunday,12,2024,Bogo,Diya,24,9009150443,North
+2025-01-06,Myntra,Shirt,Clothing,Topwear,West,43,605.84,26051.28,0,605.84,2172.06,0,5,0.07,454,649.53,4,30.29,0.33,0.45,Monday,1,2025,None,Ishaan,53,9405671658,North
+2024-12-12,Amazon,Smartphone,Electronics,Mobiles,East,141,1808.96,255064.05,0,1808.96,1218.35,0,1,0.1,78,1720.91,4,90.45,0.12,0.92,Thursday,12,2024,None,Aarav,46,9738057311,West
+2024-12-16,Flipkart,Smartphone,Electronics,Mobiles,West,125,647.1,64709.62,20,517.68,4754.51,0,1,0.15,24,579.98,1,25.88,0.22,-0.29,Monday,12,2024,Coupon,Reyansh,54,9904533448,South
+2024-12-09,Ajio,Shirt,Clothing,Topwear,West,119,258.58,21539.86,30,181.01,676.46,0,1,0.06,128,242.13,5,9.05,0.3,0.27,Monday,12,2024,Bogo,Saanvi,53,9782209537,East
+2025-01-09,Ajio,Jeans,Clothing,Bottomwear,South,190,1858.0,282416.43,20,1486.4,3656.28,0,1,0.15,330,1800.91,6,74.32,0.33,-0.47,Thursday,1,2025,Bogo,Vivaan,40,9116406695,South
+2024-12-19,Ajio,Shirt,Clothing,Topwear,East,69,498.41,24073.28,30,348.89,4038.4,0,2,0.08,473,554.79,1,17.44,0.15,-0.34,Thursday,12,2024,Coupon,Vivaan,33,9371112501,South
+2024-12-27,Amazon,Smartphone,Electronics,Mobiles,East,145,1590.37,207543.38,10,1431.33,2994.94,0,2,0.19,183,1588.53,5,71.57,0.33,0.12,Friday,12,2024,None,Saanvi,48,9910296064,South
+2025-01-13,Meesho,Watch,Accessories,Watches,North,87,770.96,67073.68,0,770.96,1057.57,0,1,0.05,333,736.78,2,38.55,0.25,0.78,Monday,1,2025,Coupon,Aarav,51,9810879547,West
+2024-12-12,Ajio,Jeans,Clothing,Bottomwear,North,178,1905.87,339245.29,0,1905.87,3623.88,0,4,0.09,75,1957.63,3,95.29,0.14,-0.14,Thursday,12,2024,Coupon,Ishaan,18,9746031920,North
+2024-12-29,Amazon,Watch,Accessories,Watches,East,86,702.79,60440.15,0,702.79,1975.37,0,5,0.06,200,776.22,5,35.14,0.1,-0.86,Sunday,12,2024,None,Reyansh,35,9107320122,East
+2024-12-15,Ajio,Smartphone,Electronics,Mobiles,North,81,805.22,58700.69,10,724.7,1935.29,0,3,0.07,186,772.72,3,36.23,0.35,0.59,Sunday,12,2024,Flash Sale,Diya,57,9597511600,West
+2024-12-31,Myntra,Smartphone,Electronics,Mobiles,West,134,1373.48,128832.66,30,961.44,3880.69,1,5,0.16,333,1336.12,1,48.07,0.35,-0.05,Tuesday,12,2024,Bogo,Ishaan,32,9684040983,East
+2024-12-18,Myntra,Smartphone,Electronics,Mobiles,West,178,415.54,59173.21,20,332.43,4948.58,0,3,0.19,17,501.15,3,16.62,0.27,-0.85,Wednesday,12,2024,Bogo,Myra,34,9816135111,West
+2025-01-08,Flipkart,Watch,Accessories,Watches,East,23,705.52,11358.95,30,493.87,4449.06,0,3,0.09,119,777.41,4,24.69,0.3,0.65,Wednesday,1,2025,Coupon,Ishaan,27,9248589459,North
+2025-01-14,Flipkart,Jeans,Clothing,Bottomwear,West,189,869.8,115074.12,30,608.86,2616.9,0,1,0.01,323,816.69,5,30.44,0.12,0.71,Tuesday,1,2025,Flash Sale,Ishaan,37,9721285939,East
+2024-12-11,Flipkart,Jeans,Clothing,Bottomwear,North,76,1415.81,96841.51,10,1274.23,3199.47,0,3,0.16,168,1371.56,6,63.71,0.39,-0.98,Wednesday,12,2024,Coupon,Kiara,23,9213834712,South
+2024-12-02,Amazon,Shirt,Clothing,Topwear,North,125,659.45,82431.61,0,659.45,1035.46,0,1,0.1,17,670.81,6,32.97,0.31,0.14,Monday,12,2024,Bogo,Aarav,25,9563068000,West
+2025-01-12,Ajio,Jeans,Clothing,Bottomwear,East,60,117.11,4918.65,30,81.98,3040.69,0,2,0.06,255,166.55,6,4.1,0.19,-0.93,Sunday,1,2025,None,Diya,51,9968278220,East
+2024-12-02,Myntra,Smartphone,Electronics,Mobiles,East,65,1103.9,71753.71,0,1103.9,4819.79,0,4,0.19,316,1068.44,6,55.2,0.38,0.84,Monday,12,2024,Bogo,Kiara,49,9162649742,North
+2024-12-05,Flipkart,Jeans,Clothing,Bottomwear,South,179,1981.65,283772.06,20,1585.32,4386.04,0,3,0.19,226,1895.65,6,79.27,0.21,0.53,Thursday,12,2024,None,Aarav,59,9864698468,East
+2024-12-03,Flipkart,Shirt,Clothing,Topwear,West,43,780.51,23493.33,30,546.36,208.71,0,4,0.1,258,784.54,4,27.32,0.34,0.94,Tuesday,12,2024,Flash Sale,Kabir,21,9030721324,West
+2025-01-12,Ajio,Watch,Accessories,Watches,South,49,1238.33,48542.36,20,990.66,4380.44,0,1,0.08,465,1311.28,6,49.53,0.12,0.78,Sunday,1,2025,None,Diya,56,9797674995,North
+2024-12-09,Meesho,Shoes,Footwear,Casual Shoes,North,81,1616.04,104719.19,20,1292.83,1059.62,0,3,0.1,315,1655.22,4,64.64,0.15,0.23,Monday,12,2024,None,Aarav,37,9705543097,South
+2024-12-05,Myntra,Shirt,Clothing,Topwear,South,31,1880.73,40811.93,30,1316.51,3877.19,0,5,0.03,11,1794.2,2,65.83,0.24,-0.88,Thursday,12,2024,Bogo,Vivaan,41,9522567495,West
+2024-12-22,Myntra,Shoes,Footwear,Casual Shoes,West,188,1920.46,361046.94,0,1920.46,2618.38,0,2,0.17,447,1909.15,4,96.02,0.15,-0.65,Sunday,12,2024,Coupon,Kiara,41,9058939083,West
+2025-01-02,Meesho,Shirt,Clothing,Topwear,North,41,933.48,34445.27,10,840.13,1683.05,0,2,0.06,263,1001.2,1,42.01,0.31,0.83,Thursday,1,2025,Coupon,Kabir,43,9102691814,North
+2024-12-17,Myntra,Smartphone,Electronics,Mobiles,East,44,1807.7,79538.67,0,1807.7,516.78,0,3,0.08,428,1905.46,3,90.38,0.17,-0.81,Tuesday,12,2024,Bogo,Diya,42,9797218271,West
+2024-12-03,Myntra,Smartphone,Electronics,Mobiles,East,172,762.85,131210.15,0,762.85,4268.56,0,2,0.08,372,809.02,1,38.14,0.16,-0.24,Tuesday,12,2024,None,Myra,53,9205630284,East
+2024-12-27,Myntra,Watch,Accessories,Watches,East,76,271.94,16534.13,20,217.55,2111.93,0,5,0.18,302,350.39,2,10.88,0.13,0.73,Friday,12,2024,Bogo,Reyansh,24,9530444510,South

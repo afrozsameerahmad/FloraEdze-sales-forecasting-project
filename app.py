@@ -98,7 +98,7 @@ def plot_predictions(y_true, y_pred, title="Prediction vs Actual"):
     st.plotly_chart(fig, use_container_width=True)
 
 def explain_metrics():
-    st.markdown("""### 📊 What the Metrics Mean:
+    st.markdown("""###  What the Metrics Mean:
 - **RMSE (Root Mean Square Error)**: Average squared difference from actual values. Lower is better.
 - **MAE (Mean Absolute Error)**: Average of absolute differences between predicted and actual values.
 - **R² (R-squared)**: Proportion of variance in revenue explained by the model. Closer to 1 is better.
